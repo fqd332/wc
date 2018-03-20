@@ -1,0 +1,2 @@
+stoplist为停用词表
+bat为测试脚本
