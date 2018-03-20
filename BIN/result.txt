@@ -1,0 +1,8 @@
+file.c,字符数: 390 
+file.c,单词数: 21 
+file.c,字符数: 390 
+file.c,总行数: 22 
+file.c,单词数: 22 
+file.c,字符数: 390 
+file.c,单词数: 22 
+file.c,总行数: 22 
